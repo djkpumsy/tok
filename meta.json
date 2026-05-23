@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Official USDT Bep20",
+  "decimals": 18,
+  "image": "https://pepfirm.vercel.app/logo.png",
+}
